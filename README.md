@@ -1,0 +1,1 @@
+# coffee-delivery-catalog-assets
